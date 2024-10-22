@@ -1,0 +1,1 @@
+# zpi-zp41_appINDEPENDENT-PavliukRuslana-MEU-2025
