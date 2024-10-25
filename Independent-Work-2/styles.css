@@ -1,0 +1,30 @@
+.main-title {
+    text-align: center;
+}
+.point-wrapper {
+    border: 1px solid rgb(85, 166, 209);
+    margin: 0 auto;
+    width: 80%;
+    margin-bottom: 15px;
+    padding-left: 15px;
+}
+
+.examples-devider {
+    height: 1px;
+    width: 95%;
+    background-color:  rgb(98, 50, 141);
+    margin: 0 auto;
+}
+
+.example-title {
+    text-decoration: underline;
+}
+
+.example {
+    color: rgb(87, 86, 86);
+}
+
+code {
+    display: inline-block;
+    background-color: rgb(203, 191, 191);
+}
